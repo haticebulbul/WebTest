@@ -27,7 +27,7 @@ nav {
   }
   
   nav a:hover {
-    background-color: #444;
+    background-color: rgb(255, 251, 0);
   }
   img{
     width: 400px;;
