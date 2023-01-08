@@ -6,6 +6,7 @@ nav {
     top: 0;
     left: 0;
     right: 0;
+    
   }
   
   nav ul {
@@ -28,4 +29,10 @@ nav {
   nav a:hover {
     background-color: #444;
   }
+  img{
+    width: 400px;;
+    height: 400px;;
+    align-items: baseline;
+  }
+  
   
